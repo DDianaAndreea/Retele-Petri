@@ -45,20 +45,6 @@ public class Arc {
              return true;
       
     }
-     
-    /* public int getDirectie()
-    {
-        if (directie=="IN")
-        {
-            return 0;
-        }
-        if(directie=="OUT")
-        {
-            return 1;
-        }
-        
-       
-    }*/
     
     
 }
